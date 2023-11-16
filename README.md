@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salehin-shahed&show_icons=true&locale=en&layout=compact" alt="salehin-shahed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salehin-shahed&show_icons=true&locale=en" alt="salehin-shahed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehin-shahed&" alt="salehin-shahed" /></p>
