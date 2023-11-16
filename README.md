@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/salehin7100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salehin7100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salehin-shahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salehin-shahed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15201912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15201912" height="30" width="40" /></a>
-<a href="https://fb.com/developersalehin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developersalehin" height="30" width="40" /></a>
-<a href="https://www.behance.net/salehinshahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="salehinshahed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@salehinshahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salehin shahed" height="30" width="40" /></a>
+<a href="https://codepen.io/salehin7100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salehin7100" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salehin-shahed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salehin-shahed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15201912" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15201912" height="30" width="40" /></a>
+<a href="https://fb.com/developersalehin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developersalehin" height="30" width="40" /></a>
+<a href="https://www.behance.net/salehinshahed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="salehinshahed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@salehinshahed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salehin shahed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
