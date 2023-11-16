@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salehin Shahed</h1>
 <h3 align="center">A Passionate MERN Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salehin-shahed&label=Profile%20views&color=0e75b6&style=flat" alt="salehin-shahed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salehin-shahed&label=Profile%20views&color=0e75b6&style=flat" alt="salehin-shahed"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salehin-shahed" alt="salehin-shahed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salehin-shahed" alt="salehin-shahed"/></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/salehin-shahed/](https://www.linkedin.com/in/salehin-shahed/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/salehin-shahed/recent-activity/articles/](https://www.linkedin.com/in/salehin-shahed/recent-activity/articles/)
 
 - 💬 Ask me about **Javascript & React**
 
@@ -21,10 +17,10 @@
 <p align="left">
 <a href="https://codepen.io/salehin7100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salehin7100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salehin-shahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salehin-shahed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/salehin-shahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="salehin-shahed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15201912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15201912" height="30" width="40" /></a>
 <a href="https://fb.com/developersalehin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developersalehin" height="30" width="40" /></a>
 <a href="https://www.behance.net/salehinshahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="salehinshahed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@salehinshahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@salehinshahed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@salehinshahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salehin shahed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
