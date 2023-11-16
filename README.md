@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on [Textile Network](https://jobs.thetextilenetwork.com/)
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/salehin-shahed/](https://www.linkedin.com/in/salehin-shahed/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/salehin-shahed/recent-activity/articles/](https://www.linkedin.com/in/salehin-shahed/recent-activity/articles/)
@@ -16,8 +14,6 @@
 - 💬 Ask me about **Javascript & React**
 
 - 📫 How to reach me **salehin7100gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_8dVDqM6cbzU76hyZIMvodPOdy3ioY9P/view?usp=sharing](https://drive.google.com/file/d/1_8dVDqM6cbzU76hyZIMvodPOdy3ioY9P/view?usp=sharing)
 
 - ⚡ Fun fact **I Learned to Code for Dopamine**
 
@@ -37,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salehin-shahed&show_icons=true&locale=en&layout=compact" alt="salehin-shahed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salehin-shahed&show_icons=true&locale=en" alt="salehin-shahed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehin-shahed&" alt="salehin-shahed" /></p>
